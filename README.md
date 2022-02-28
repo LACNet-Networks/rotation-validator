@@ -30,7 +30,7 @@ $ ./client
 * [In depth overview of the rotation mechanism](https://github.com/lacchain/rotation-validator/blob/main/docs/OVERVIEW.md).
 * [Architecture](docs/Architecture.md).
 
-## Copyright 2021 LACChain
+## Copyright 2022 LACNetq
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
